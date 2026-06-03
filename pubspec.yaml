@@ -1,16 +1,16 @@
 name: new_social_share
 description: Wide variety of sharing options you'll need to share directly to certain well-known apps.
-version: 2.3.3
+version: 2.3.4
 homepage: https://github.com/Ibrokihimbek/new_social_share
 
 environment:
-  sdk: ">=3.5.0 <4.0.0"
-  flutter: ">=3.24.0"
+  sdk: ">=3.8.0 <4.0.0"
+  flutter: ">=3.32.1"
 
 dependencies:
   flutter:
     sdk: flutter
-  path_provider: ^2.0.5
+  path_provider: ^2.1.5
 
 dev_dependencies:
   flutter_test:
